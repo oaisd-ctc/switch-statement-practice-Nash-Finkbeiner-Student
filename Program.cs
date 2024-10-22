@@ -4,7 +4,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-    Console.WriteLine("Enter a number");
+    Console.WriteLine("Enter the number");
     int num = int.Parse(Console.ReadLine());
     switch(num)
     {
