@@ -4,7 +4,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-    Console.WriteLine("Enter a number between 0 and 10");
+    Console.WriteLine("Enter a number");
     int num = int.Parse(Console.ReadLine());
     switch(num)
     {
